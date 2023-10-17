@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Jacek Pietraszek</h1>
 <h3 align="center">A passionate backend and frontend developer from Poland</h3>
-<img align="right" alt="Coding" with="200" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExbWZrenE2ZXJkdTBwazc3dDZrYzJibDFhOWtyNHA2ZDl5Zmo5NmNjbyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif">
+<img align="right" alt="Coding" with="150" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExbWZrenE2ZXJkdTBwazc3dDZrYzJibDFhOWtyNHA2ZDl5Zmo5NmNjbyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mrexcavator&label=Profile%20views&color=0e75b6&style=flat" alt="mrexcavator" /> </p>
 
