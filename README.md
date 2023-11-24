@@ -3,13 +3,13 @@
 <img align="right" alt="Coding" with="100" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExbWZrenE2ZXJkdTBwazc3dDZrYzJibDFhOWtyNHA2ZDl5Zmo5NmNjbyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif">
 
 
-- 🌱 I’m currently learning **Java, Spring, web technologies**
+- 🌱 I’m currently learning **Java, Spring, Web Technologies**
 
 - 💬 Ask me about **anything you want**
 
 - 📫 How to reach me **jacekpietraszek01@gmail.com**
 
-- ⚡ Fun fact **I am a triathlete and mechanical engineering student**
+- ⚡ Fun fact **I am a mechanical engineering student and triathlete**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
