@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **jacekpietraszek01@gmail.com**
 
-- ⚡ Fun fact **I am triathlete**
+- ⚡ Fun fact **I am a triathlete**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
